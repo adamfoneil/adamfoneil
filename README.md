@@ -7,7 +7,7 @@ If you need help with database design challenges, please reach out.
 
 I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
-- [ModelSync](http://www.aosoftware.net/modelSync.html), an EF migration alterntive.
+- [ModelSync](http://www.aosoftware.net/modelSync.html), an EF migration alternative.
 
 I work on many other odds and ends:
 - I'm learning Blazor, and have a [demo project](https://github.com/adamfoneil/BlazorServerDemo) I'm working on intermittently. I really like what Blazor's about. (Subtext: I don't like JavaScript.)
