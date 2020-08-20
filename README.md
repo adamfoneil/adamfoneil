@@ -3,7 +3,7 @@ I'm into C#, SQL Server, and .NET Core. I love data access, Dapper, and I make a
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
 - [SqlServerUtil](https://github.com/adamfoneil/SqlServerUtil) bulk insert, deep copy, and view materializing utilities for SQL Server
 
-If you need help with database design challenges or C# productivity with SQL Server, please reach out.
+If you need help with database design challenges, C# and Linq productivity with SQL Server, please reach out.
 
 I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
