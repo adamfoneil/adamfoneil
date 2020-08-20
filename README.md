@@ -20,3 +20,4 @@ I work on many other odds and ends:
 - [JsonSettings](https://github.com/adamfoneil/JsonSettings), for strong-typed json-based configuration, mainly in WinForms apps, with DPAPI encryption
 - [ModelSync](https://github.com/adamfoneil/ModelSync), the library behind my ModelSync desktop app is open source
 - [SqlServer.LocalDb](https://github.com/adamfoneil/SqlServer.LocalDb), an integration testing library for SQL Server
+- [SourceFolderCleanup](https://github.com/adamfoneil/SourceFolderCleanup) another WinForms app I use personally
