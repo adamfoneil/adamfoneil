@@ -3,11 +3,15 @@ I'm into C#, SQL Server, and .NET Core. I love data access, Dapper, and I make a
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
 - [SqlServerUtil](https://github.com/adamfoneil/SqlServerUtil) bulk insert, deep copy, and view materializing utilities for SQL Server
 
-If you need help with database design challenges, C# and Linq productivity with SQL Server, please reach out.
+If you need help with database design challenges, C# and Linq productivity with SQL Server, please reach out. I also work a lot with Azure:
+- I love serverless code, and I create utilities for Azure Functions: [PayPalHelper](https://github.com/adamfoneil/PayPalHelper2), [CloudLicensing](https://github.com/adamfoneil/CloudLicensing).
+- I love blob storage. Most of the stuff I do in this area is closed source, but I can share my homegrown continous deployment solution for WinForms apps [AzDeploy](https://github.com/adamfoneil/AzDeploy), which uses blob storage.
+- I'm very familiar with Azure App Service, and have deployed and managed several web apps, notably [Ginseng8](https://github.com/adamfoneil/Ginseng8), although this project fizzled. I chase after lot of big ideas, many of which go nowhere. I'm very proud of [HistoricProperties.com](https://www.historicproperties.com/), an MVC app I did for my high school Latin teacher.
+- I'm very familiar with Azure SQL Database, which grew out of my on-premises SQL Server background. I have a lot of experience with database design and performance troubleshooting.
 
 I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
-- [ModelSync](http://www.aosoftware.net/modelSync.html), an EF migration alternative.
+- [ModelSync](http://www.aosoftware.net/modelSync.html), an EF migration alternative. (Subtext: I don't care for Entity Framework.)
 
 I work on many other odds and ends:
 - I'm learning Blazor, and have a [demo project](https://github.com/adamfoneil/BlazorServerDemo) I'm working on intermittently. I really like what Blazor's about. (Subtext: I don't like JavaScript.)
