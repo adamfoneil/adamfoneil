@@ -22,7 +22,7 @@ I work on many other odds and ends:
 - [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation
 - [WinForms.Library](https://github.com/adamfoneil/WinForms.Library), data binding helpers for WinForms. I never made the transition to XAML/WPF, sorry
 - [JsonSettings](https://github.com/adamfoneil/JsonSettings), for strong-typed json-based configuration, mainly in WinForms apps, with DPAPI encryption
-- [ModelSync](https://github.com/adamfoneil/ModelSync), the library behind my ModelSync desktop app is open source
+- [ModelSync](https://github.com/adamfoneil/ModelSync), the library behind my ModelSync desktop app is open source. This is a SQL schema diff library that can treat .NET assemblies as data sources. This is the main difference from other apps in this space.
 - [SqlServer.LocalDb](https://github.com/adamfoneil/SqlServer.LocalDb), an integration testing library for SQL Server
 - [SourceFolderCleanup](https://github.com/adamfoneil/SourceFolderCleanup) another WinForms app I use personally
 - [CredManager2](https://github.com/adamfoneil/CredManager2), a password manager I use myself, because it's fun to make stuff like this
