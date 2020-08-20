@@ -21,3 +21,4 @@ I work on many other odds and ends:
 - [ModelSync](https://github.com/adamfoneil/ModelSync), the library behind my ModelSync desktop app is open source
 - [SqlServer.LocalDb](https://github.com/adamfoneil/SqlServer.LocalDb), an integration testing library for SQL Server
 - [SourceFolderCleanup](https://github.com/adamfoneil/SourceFolderCleanup) another WinForms app I use personally
+- [CredManager2](https://github.com/adamfoneil/CredManager2), a password manager I use myself, because it's fun to make stuff like this
