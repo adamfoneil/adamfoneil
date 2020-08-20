@@ -11,8 +11,8 @@ I have some closed-source products:
 
 I work on many other odds and ends:
 - I'm learning Blazor, and have a [demo project](https://github.com/adamfoneil/BlazorServerDemo) I'm working on intermittently. I really like what Blazor's about. (Subtext: I don't like JavaScript.)
-- A utility for generating C# documentation [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner)
-- [WinForms.Library](https://github.com/adamfoneil/WinForms.Library), data binding helpers for WinForms. I never made the transition to XAML/WPF
+- [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation
+- [WinForms.Library](https://github.com/adamfoneil/WinForms.Library), data binding helpers for WinForms. I never made the transition to XAML/WPF, sorry
 - [JsonSettings](https://github.com/adamfoneil/JsonSettings), for strong-typed json-based configuration, mainly in WinForms apps, with DPAPI encryption
 - [ModelSync](https://github.com/adamfoneil/ModelSync), the library behind my ModelSync desktop app is open source
 - [SqlServer.LocalDb](https://github.com/adamfoneil/SqlServer.LocalDb), an integration testing library for SQL Server
