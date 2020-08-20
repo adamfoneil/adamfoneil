@@ -13,6 +13,10 @@ I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
 - [ModelSync](http://www.aosoftware.net/modelSync.html), an EF migration alternative. (Subtext: I don't care for Entity Framework.)
 
+When coworkers get stuck, I like to help with demo projects to sketch out possible solutions and to get the benefit of a clean slate:
+- In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload) for example, I sketched out an approach to supporting large file uploads
+- In [NotifyDemo](https://github.com/adamfoneil/NotifyDemo) for example, I tried to implement a SignalR demo. But I get stuck too! I have no problem hiring people to help with unique problems, and to fill in gaps in my knowledge.
+
 I work on many other odds and ends:
 - I'm learning Blazor, and have a [demo project](https://github.com/adamfoneil/BlazorServerDemo) I'm working on intermittently. I really like what Blazor's about. (Subtext: I don't like JavaScript.)
 - [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation
