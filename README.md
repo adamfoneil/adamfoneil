@@ -1,4 +1,4 @@
-I'm into C#, SQL Server, and .NET Core. I love data access, Dapper, and I make a couple Dapper extension libraries:
+I'm into C#, SQL Server, .NET Core, and Azure. I love data access, Dapper, and I make a couple Dapper extension libraries:
 - [Dapper.CX](https://github.com/adamfoneil/Dapper.CX), a CRUD library
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
 - [SqlServerUtil](https://github.com/adamfoneil/SqlServerUtil) bulk insert, deep copy, and view materializing utilities for SQL Server
