@@ -16,6 +16,7 @@ I have some closed-source products:
 When coworkers get stuck, I like to help with demo projects to sketch out possible solutions and to get the benefit of a clean slate:
 - In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload) for example, I sketched out an approach to supporting large file uploads
 - In [NotifyDemo](https://github.com/adamfoneil/NotifyDemo) for example, I tried to implement a SignalR demo. But I get stuck too! I have no problem hiring people to fill in gaps in my knowledge.
+- In [ParseAndViewNative](https://github.com/adamfoneil/ParseViewAndNative) we had a little algorithm challenge to consider different ways to handle rules around how our AerieHub product prioritizes file extensions when given a list. We were able to compare solutions with tests.
 
 I work on many other odds and ends:
 - I'm learning Blazor, and have a [demo project](https://github.com/adamfoneil/BlazorServerDemo) I'm working on intermittently. I really like what Blazor's about. (Subtext: I don't like JavaScript.)
