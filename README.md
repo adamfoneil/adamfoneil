@@ -2,7 +2,7 @@ I'm into C#, SQL Server, .NET Core, and Azure. I love relational data access, [D
 - [Dapper.CX](https://github.com/adamfoneil/Dapper.CX), a CRUD library
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
 - [SqlServerUtil](https://github.com/adamfoneil/SqlServerUtil) bulk insert, deep copy, and view materializing utilities for SQL Server
-- [ModelSync](https://github.com/adamfoneil/ModelSync), a SQL schema diff library that can treat .NET assemblies as data sources.
+- [ModelSync](https://github.com/adamfoneil/ModelSync), a SQL schema diff library that can treat .NET assemblies as data sources
 
 If you need help with database design challenges, C# and Linq productivity with SQL Server, please reach out. I also work a lot with Azure:
 - I love serverless code, and I create utilities for Azure Functions: [PayPalHelper](https://github.com/adamfoneil/PayPalHelper2), [CloudLicensing](https://github.com/adamfoneil/CloudLicensing). Much of my work in this area is closed source, but I can share my custom library [Excel2SqlServer](https://github.com/adamfoneil/Excel2SqlServer.Library) for importing Excel spreadsheets into SQL Server, which I use with Azure Functions.
