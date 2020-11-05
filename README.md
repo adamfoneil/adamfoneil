@@ -10,7 +10,6 @@ If you need help with database design challenges, C# and Linq productivity with 
 - I love blob storage. Most of the stuff I do in this area is closed source, but I can share my homegrown continous deployment solution for WinForms apps [AzDeploy](https://github.com/adamfoneil/AzDeploy), which uses blob storage.
 - I'm very familiar with Azure App Service, and have deployed and managed several web apps, notably [Ginseng8](https://github.com/adamfoneil/Ginseng8), although this project fizzled. I chase after lot of big ideas, many of which go nowhere. I'm very proud of [HistoricProperties.com](https://www.historicproperties.com/), an MVC app I did for my high school Latin teacher. This involved me hiring and collaborating with a front-end specialist who made the app look great.
 - I'm very familiar with Azure SQL Database, which grew out of my on-premises SQL Server background. I have a lot of experience with database design and performance troubleshooting.
-- Another wild hare idea: a cloud object storage API I'm working on: [CloudObjects](https://github.com/adamfoneil/CloudObjects)
 
 I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
