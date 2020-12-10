@@ -17,7 +17,7 @@ I have some closed-source products:
 - [ModelSync](http://www.aosoftware.net/modelSync.html), an EF migration alternative. (Subtext: I don't care for Entity Framework.) The library that powers this is open source [here](https://github.com/adamfoneil/ModelSync).
 
 When coworkers get stuck, I like to help with demo projects to sketch out possible solutions and to get the benefit of a clean slate:
-- In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload) for example, I sketched out an approach to supporting large file uploads
+- In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload) for example, I sketched out an approach to supporting large file uploads. A NuGet [package](https://www.nuget.org/packages/AO.AzureUploader) came out of this that I'm using in other projects now!
 - In [NotifyDemo](https://github.com/adamfoneil/NotifyDemo) for example, I tried to implement a SignalR demo. But I get stuck too! I have no problem hiring people to fill in gaps in my knowledge.
 - In [ParseAndViewNative](https://github.com/adamfoneil/ParseViewAndNative) we had a little algorithm challenge to consider [different ways to handle rules](https://github.com/adamfoneil/ParseViewAndNative/blob/master/ParseViewAndNative/Solutions.cs) around how our AerieHub product prioritizes file extensions when given a list. We were able to compare solutions with [tests](https://github.com/adamfoneil/ParseViewAndNative/blob/master/ParseViewAndNative.Tests/FileExtParsing.cs).
 
