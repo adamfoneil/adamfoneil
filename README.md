@@ -4,7 +4,7 @@ I'm into C#, SQL Server, .NET Core, Blazor, and Azure. I love relational data ac
 - [SqlServerUtil](https://github.com/adamfoneil/SqlServerUtil) bulk insert, deep copy, and view materializing utilities for SQL Server
 - [ModelSync](https://github.com/adamfoneil/ModelSync), a SQL schema diff library that can treat .NET assemblies as data sources
 
-I like helping developers who are stuck. I have a deep background in SQL Server, C#, MVC, and .NET Core. If you think I can help with something, please [reach out](mailto:adamosoftware@gmail.com).
+I like helping developers who are stuck. I have a deep background in SQL Server, C#, WinForms, MVC, and .NET Core. If you think I can help with something, please [reach out](mailto:adamosoftware@gmail.com).
 
 - [CloudObjects](https://github.com/adamfoneil/CloudObjects) is a REST API project in .NET Core I've been working on lately. This leads to related side projects like [DbCache](https://github.com/adamfoneil/DbCache) for throttling API calls to 3rd party services.
 - I love serverless code, and I create utilities for Azure Functions: [PayPalHelper](https://github.com/adamfoneil/PayPalHelper2), [CloudLicensing](https://github.com/adamfoneil/CloudLicensing). Much of my work in this area is closed source, but I can share my custom library [Excel2SqlServer](https://github.com/adamfoneil/Excel2SqlServer.Library) for importing Excel spreadsheets into SQL Server, which I use with Azure Functions.
