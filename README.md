@@ -15,7 +15,7 @@ I like helping developers who are stuck. I have a deep background in SQL Server,
 
 I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
-- [ModelSync](http://www.aosoftware.net/modelSync.html), an EF migration alternative. (Subtext: I don't care for Entity Framework.) The library that powers this is open source [here](https://github.com/adamfoneil/ModelSync).
+- [ModelSync](https://aosoftware.net/modelsync/), an EF migration alternative. (Subtext: I don't care for Entity Framework.) The library that powers this is open source [here](https://github.com/adamfoneil/ModelSync).
 
 When coworkers get stuck, I like to help with demo projects to sketch out possible solutions and to get the benefit of a clean slate:
 - In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload) for example, I sketched out an approach to supporting large file uploads. A NuGet [package](https://www.nuget.org/packages/AO.AzureUploader) came out of this that I'm using in other projects now!
