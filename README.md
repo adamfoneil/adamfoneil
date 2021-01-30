@@ -14,6 +14,7 @@ I like helping developers who are stuck. I have a deep background in SQL Server,
 - I still work a lot with WinForms, and have a SQL client meant for C#-specific integration called [Zinger](https://github.com/adamfoneil/Postulate.Zinger). This is a companion tool of sorts for my [Dapper.QX](https://github.com/adamfoneil/Dapper.QX) library.
 
 I have some closed-source products:
+- [Sendhook.net](https://sendhookapp.azurewebsites.net/) for capturing inbound email as HTTP posts at your own endpoints
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
 - [ModelSync](https://aosoftware.net/modelsync/), an EF migration alternative. (Subtext: I don't care for Entity Framework.) The library that powers this is open source [here](https://github.com/adamfoneil/ModelSync).
 
