@@ -31,5 +31,3 @@ I work on many other odds and ends:
 - [SqlServer.LocalDb](https://github.com/adamfoneil/SqlServer.LocalDb), an integration testing library for SQL Server
 - [SourceFolderCleanup](https://github.com/adamfoneil/SourceFolderCleanup) another WinForms app I use personally
 - [CredManager2](https://github.com/adamfoneil/CredManager2), a password manager I use myself, because it's fun to make stuff like this
-
-[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adamfoneil)](https://github.com/adamfoneil/github-readme-stats)
