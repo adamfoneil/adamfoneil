@@ -20,7 +20,7 @@ I have some closed-source products:
 - [ModelSync](https://aosoftware.net/modelsync/), an EF migration alternative. (Subtext: I don't care for Entity Framework.) The library that powers this is open source [here](https://github.com/adamfoneil/ModelSync).
 
 Some other odds and ends:
-- [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation as markdown
+- [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation as markdown. I use this whenever I want to provide a reference of methods and parameters for my libraries.
 - [AzDeploy](https://github.com/adamfoneil/AzDeploy), my continuous deployment mechanism for WinForms apps
 - In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload), I sketched out an approach to supporting large file uploads. A NuGet [package](https://www.nuget.org/packages/AO.AzureUploader) came out of this that I'm using in other projects now.
 - [CloudObjects](https://github.com/adamfoneil/CloudObjects) is a REST API project in .NET Core
