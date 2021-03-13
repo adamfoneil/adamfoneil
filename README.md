@@ -12,6 +12,8 @@ Along with some SQL Server-related libraries and tools:
 
 I like helping developers who are stuck. I have a deep background in SQL Server, C#, WinForms, MVC, and .NET Core. If you think I can help with something, please [reach out](mailto:adamosoftware@gmail.com).
 
+I'm also getting into Blazor, but much of my work here is closed source. I'm working on a general-purpose show-and-tell project [BlazorStarter](https://github.com/adamfoneil/BlazorStarter).
+
 I have some closed-source products:
 - [Sendhook.net](https://sendhookapp.azurewebsites.net/) for capturing inbound email as HTTP posts at your own endpoints
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
