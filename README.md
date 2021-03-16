@@ -19,6 +19,7 @@ I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
 
 Some other odds and ends:
+- [AOLicensing](https://github.com/adamfoneil/AOLicensing) for desktop app gatekeeping and licensing
 - [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation as markdown. I use this whenever I want to provide a reference of methods and parameters for my libraries.
 - [AzDeploy](https://github.com/adamfoneil/AzDeploy), my continuous deployment mechanism for WinForms apps
 - In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload), I sketched out an approach to supporting large file uploads. A NuGet [package](https://www.nuget.org/packages/AO.AzureUploader) came out of this that I'm using in other projects now.
