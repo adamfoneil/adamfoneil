@@ -4,7 +4,7 @@ I'm into C#, SQL Server, .NET Core, Blazor, and Azure. I love relational data ac
 
 Along with some SQL Server-related libraries and tools:
 - [SqlServerUtil](https://github.com/adamfoneil/SqlServerUtil) bulk insert, deep copy, and view materializing utilities for SQL Server
-- [ModelSync](https://github.com/adamfoneil/ModelSync), a SQL schema diff library that can treat .NET assemblies as data sources
+- [ModelSync](https://github.com/adamfoneil/ModelSync), a SQL schema diff library that can treat .NET assemblies as data sources. Powers my [ModelSync App](https://github.com/adamfoneil/ModelSync.WinForms)
 - [Zinger](https://github.com/adamfoneil/Postulate.Zinger), a SQL client sort of like SSMS specifically for C# productivity. Check out its [Data Migrator](https://github.com/adamfoneil/Postulate.Zinger/wiki/Data-Migrator) feature.
 - [SqlServer.LocalDb](https://github.com/adamfoneil/SqlServer.LocalDb), an integration testing library for SQL Server 
 - [Excel2SqlServer](https://github.com/adamfoneil/Excel2SqlServer.Library), an Excel import library
@@ -17,7 +17,6 @@ I'm also getting into Blazor, but much of my work here is closed source. However
 I have some closed-source products:
 - [Sendhook.net](https://sendhookapp.azurewebsites.net/) for capturing inbound email as HTTP posts at your own endpoints
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
-- [ModelSync](https://aosoftware.net/modelsync/), an EF migration alternative. (Subtext: I don't care for Entity Framework.) The library that powers this is open source [here](https://github.com/adamfoneil/ModelSync).
 
 Some other odds and ends:
 - [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation as markdown. I use this whenever I want to provide a reference of methods and parameters for my libraries.
