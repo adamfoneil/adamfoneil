@@ -16,7 +16,7 @@ I like helping developers who are stuck. I have a deep background in SQL Server,
 I'm also getting into Blazor, but much of my work here is closed source. However I am working on a general-purpose show-and-tell project [BlazorAO](https://github.com/adamfoneil/BlazorAO).
 
 I have some closed-source products:
-- [Sendhook.net](https://sendhookapp.azurewebsites.net/) for capturing inbound email as HTTP posts at your own endpoints
+- [Sendhook.net](https://sendhookapp.azurewebsites.net/) for capturing inbound email as HTTP posts at your own endpoints, uses Azure functions, queues, and blob storage
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
 
 Some other odds and ends:
