@@ -1,4 +1,4 @@
-I'm into C#, SQL Server, .NET Core, Blazor, and Azure. I love relational data access, [Dapper](https://github.com/StackExchange/Dapper), and I make a couple Dapper extension libraries:
+I'm into C#, SQL Server, .NET Core, Blazor, Razor, and Azure. I love relational data access, [Dapper](https://github.com/StackExchange/Dapper), and I make a couple Dapper extension libraries:
 - [Dapper.CX](https://github.com/adamfoneil/Dapper.CX), a CRUD library
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
 - [Models](https://github.com/adamfoneil/Models), some low-level model class stuff I use everywhere
