@@ -27,6 +27,7 @@ Some other odds and ends:
 - [CloudObjects](https://github.com/adamfoneil/CloudObjects) is a REST API project in .NET Core
 
 WinForms stuff:
+- [ImgCloudPaste](https://github.com/adamfoneil/ImgCloudPaste), for pasting images and getting screenshot URLs using Azure storage
 - [JsonSettings](https://github.com/adamfoneil/JsonSettings), for strong-typed json-based configuration, mainly in WinForms apps, with DPAPI encryption
 - [SourceFolderCleanup](https://github.com/adamfoneil/SourceFolderCleanup) another WinForms app I use personally
 - [CredManager2](https://github.com/adamfoneil/CredManager2), a password manager I use myself, because it's fun to make stuff like this
