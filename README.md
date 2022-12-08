@@ -13,7 +13,9 @@ Along with some SQL Server-related libraries and tools:
 
 I like helping developers who are stuck. I have a deep background in SQL Server, C#, WinForms, MVC, and .NET Core. If you think I can help with something, please [reach out](mailto:adamosoftware@gmail.com).
 
-I'm also getting into Blazor, but much of my work here is closed source. However I am working on a general-purpose show-and-tell project [BlazorAO](https://github.com/adamfoneil/BlazorAO).
+I also work with Blazor a lot. Most of my work is closed-source, but I have a couple Razor Class Libraries in progress that are public:
+- [KnowledgeBase.RCL](https://github.com/adamfoneil/KnowledgeBase.RCL) is a small knowledge base framework for Blazor apps.
+- [UserVoice.RCL](https://github.com/adamfoneil/UserVoice.RCL) is a user feedback and user acceptance test dashboard for Blazor apps.
 
 I have some closed-source products:
 - [Sendhook.net](https://sendhookapp.azurewebsites.net/) for capturing inbound email as HTTP posts at your own endpoints, uses Azure functions, queues, and blob storage. (Note this app is currently stopped, but feel free to ask me about it.)
