@@ -15,6 +15,7 @@ Along with some SQL Server-related libraries and tools:
 I like helping developers who are stuck. I have a deep background in SQL Server, C#, WinForms, MVC, and .NET Core. If you think I can help with something, please [reach out](mailto:adamosoftware@gmail.com).
 
 I also work with Blazor a lot. Most of my work is closed-source, but I have a couple Razor Class Libraries in progress that are public:
+- [PayPalComponenets.RCL](https://github.com/adamfoneil/PayPalComponents.RCL) is a miniature PayPal IPN testing dashboard with a [Pay Now button](https://github.com/adamfoneil/PayPalComponents.RCL/blob/master/PayPalComponents.RCL/Components/PayNowButton.razor) component.
 - [KnowledgeBase.RCL](https://github.com/adamfoneil/KnowledgeBase.RCL) is a small knowledge base framework using markdown and Azure blob storage.
 - [UserVoice.RCL](https://github.com/adamfoneil/UserVoice.RCL) is a user feedback and acceptance test portal.
 - [GitHubIssues.RCL](https://github.com/adamfoneil/GitHubIssues.RCL) lets users see your GitHub Issues within your application.
