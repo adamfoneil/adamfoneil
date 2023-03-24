@@ -25,13 +25,14 @@ I have some closed-source products:
 - [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
 
 Some other odds and ends:
-- [AOLicensing](https://github.com/adamfoneil/AOLicensing) for desktop app gatekeeping and licensing
+- [QuestPdfUtil](https://github.com/adamfoneil/QuestPdfUtil) a very lightweight HTML -> PDF converter
 - [RoslynMarkdowner](https://github.com/adamfoneil/RoslynMarkdowner), a utility for generating C# documentation as markdown. I use this whenever I want to provide a reference of methods and parameters for my libraries.
-- [AzDeploy](https://github.com/adamfoneil/AzDeploy), my continuous deployment mechanism for WinForms apps
 - In [ChunkUpload](https://github.com/adamfoneil/ChunkUpload), I sketched out an approach to supporting large file uploads. A NuGet [package](https://www.nuget.org/packages/AO.AzureUploader) came out of this that I'm using in other projects now.
 - [CloudObjects](https://github.com/adamfoneil/CloudObjects) is a REST API project in .NET Core
 
 WinForms stuff:
+- [AzDeploy](https://github.com/adamfoneil/AzDeploy), my continuous deployment mechanism for WinForms apps
+- [AOLicensing](https://github.com/adamfoneil/AOLicensing) for desktop app gatekeeping and licensing
 - [ImgCloudPaste](https://github.com/adamfoneil/ImgCloudPaste), for pasting images and getting screenshot URLs using Azure storage
 - [JsonSettings](https://github.com/adamfoneil/JsonSettings), for strong-typed json-based configuration, mainly in WinForms apps, with DPAPI encryption
 - [SourceFolderCleanup](https://github.com/adamfoneil/SourceFolderCleanup) another WinForms app I use personally
