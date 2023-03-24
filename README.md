@@ -18,7 +18,7 @@ I also work with Blazor a lot. Most of my work is closed-source, but I have a co
 - [PayPalComponenets.RCL](https://github.com/adamfoneil/PayPalComponents.RCL) is a miniature PayPal IPN testing dashboard with a [Pay Now button](https://github.com/adamfoneil/PayPalComponents.RCL/blob/master/PayPalComponents.RCL/Components/PayNowButton.razor) component.
 - [KnowledgeBase.RCL](https://github.com/adamfoneil/KnowledgeBase.RCL) is a small knowledge base framework using markdown and Azure blob storage.
 - [UserVoice.RCL](https://github.com/adamfoneil/UserVoice.RCL) is a user feedback and acceptance test portal.
-- [GitHubIssues.RCL](https://github.com/adamfoneil/GitHubIssues.RCL) lets users see your GitHub Issues within your application.
+- [GitHubIssues.RCL](https://github.com/adamfoneil/GitHubIssues.RCL) lets users see your GitHub Issues within your application. Also its [standalone GitHub client](https://github.com/adamfoneil/GitHubIssues.RCL/tree/master/GitHubApiClient)
 
 I have some closed-source products:
 - [Sendhook.net](https://sendhookapp.azurewebsites.net/) for capturing inbound email as HTTP posts at your own endpoints, uses Azure functions, queues, and blob storage. (Note this app is currently stopped, but feel free to ask me about it.)
