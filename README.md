@@ -1,4 +1,5 @@
 I'm into C#, SQL Server, modern .NET, Blazor, Razor, and Azure. I love relational data access, [Dapper](https://github.com/StackExchange/Dapper), and I make a couple Dapper extension libraries:
+- [Dapper.Entities](https://github.com/adamfoneil/Dapper.Entities), latest repository-based library for Dapper
 - [Dapper.Repository](https://github.com/adamfoneil/Dapper.Repository), a repository pattern approach to Dapper
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
 - [Models](https://github.com/adamfoneil/Models), some low-level model class stuff I use everywhere
