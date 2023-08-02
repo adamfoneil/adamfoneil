@@ -2,7 +2,6 @@ I'm into C#, SQL Server, modern .NET, Blazor, Razor, and Azure. I love relationa
 - [Dapper.Entities](https://github.com/adamfoneil/Dapper.Entities), latest repository-based library for Dapper
 - [Dapper.Repository](https://github.com/adamfoneil/Dapper.Repository), a repository pattern approach to Dapper
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
-- [Models](https://github.com/adamfoneil/Models), some low-level model class stuff I use everywhere
 
 Along with some SQL Server-related libraries and tools:
 - [BackgroundService.Extensions](https://github.com/adamfoneil/BackgroundService.Extensions) cronjob and queue support for .NET web apps
@@ -13,6 +12,7 @@ Along with some SQL Server-related libraries and tools:
 - [Excel2SqlServer](https://github.com/adamfoneil/Excel2SqlServer.Library), an Excel import library
 - [DbCache](https://github.com/adamfoneil/DbCache) for throttling API calls to 3rd party services
 - [DataTables.Library](https://github.com/adamfoneil/DataTables.Library) has some small ADO.NET helpers
+- [CodeProfiler](https://github.com/adamfoneil/CodeProfiler) for logging durations of blocks of code
 
 I like helping developers who are stuck. I have a deep background in SQL Server, C#, WinForms, MVC, and .NET Core. If you think I can help with something, please [reach out](mailto:adamosoftware@gmail.com).
 
