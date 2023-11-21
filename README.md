@@ -6,7 +6,7 @@ I'm into C#, SQL Server, modern .NET, Blazor, Razor, and Azure. I love relationa
 Along with some SQL Server-related libraries and tools:
 - [BackgroundService.Extensions](https://github.com/adamfoneil/BackgroundService.Extensions) cronjob and queue support for .NET web apps
 - [SqlServerUtil](https://github.com/adamfoneil/SqlServerUtil) bulk insert, deep copy, and view materializing utilities for SQL Server
-- [ModelSync](https://github.com/adamfoneil/ModelSync), a SQL schema diff library that can treat .NET assemblies as data sources. Powers my [ModelSync App](https://github.com/adamfoneil/ModelSync.WinForms)
+- [Ensync](https://github.com/adamfoneil/Ensync), a SQL schema diff/merge command-line tool, reboot of [ModelSync](https://github.com/adamfoneil/ModelSync)
 - [Zinger](https://github.com/adamfoneil/Postulate.Zinger), a SQL client sort of like SSMS specifically for C# productivity. Check out its [Data Migrator](https://github.com/adamfoneil/Postulate.Zinger/wiki/Data-Migrator) feature and its [SqlSchema](https://github.com/adamfoneil/SqlSchema) library.
 - [SqlServer.LocalDb](https://github.com/adamfoneil/SqlServer.LocalDb), an integration testing library for SQL Server 
 - [Excel2SqlServer](https://github.com/adamfoneil/Excel2SqlServer.Library), an Excel import library
