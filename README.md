@@ -1,6 +1,7 @@
 I'm into C#, SQL Server, modern .NET, Blazor, Razor, DigitalOcean, and Azure. I love relational data access, [Dapper](https://github.com/StackExchange/Dapper), and I make a couple Dapper extension libraries:
 - [Dapper.Entities](https://github.com/adamfoneil/Dapper.Entities), my latest repository-based library for Dapper
 - [Dapper.QX](https://github.com/adamfoneil/Dapper.QX), for making inline SQL better and testable
+
 I've also come around to enjoying EF Core. For the longest time I did not like EF, but I've changed my mind recently.
 
 Along with some SQL Server-related libraries and tools:
