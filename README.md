@@ -14,6 +14,7 @@ Along with some SQL Server-related libraries and tools:
 - [DataTables.Library](https://github.com/adamfoneil/DataTables.Library) has some small ADO.NET helpers
 
 I also work with Blazor a lot. Most of my work is closed-source, but I have a couple things in progress that are public:
+- [BlazorTemplate](https://github.com/adamfoneil/BlazorTemplate) provides a realistic WASM app template
 - [ApiAuthDemo](https://github.com/adamfoneil/ApiAuthDemo) demonstrates a Blazor WASM app using APIs that require authorization
 - [LiteInvoice3](https://github.com/adamfoneil/LiteInvoice3) is a freelancer's invoicing app, testing Blazor WASM + Server hybrid architecture
 - [PayPalComponenets.RCL](https://github.com/adamfoneil/PayPalComponents.RCL) is a miniature PayPal IPN testing dashboard with a [Pay Now button](https://github.com/adamfoneil/PayPalComponents.RCL/blob/master/PayPalComponents.RCL/Components/PayNowButton.razor) component.
