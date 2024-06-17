@@ -5,6 +5,7 @@ I'm into C#, SQL Server, modern .NET, Blazor, Razor, DigitalOcean, and Azure. I 
 I've also come around to enjoying EF Core. For the longest time I did not like EF, but I've changed my mind recently.
 
 Along with some SQL Server-related libraries and tools:
+- [AsyncWorkflow](https://github.com/adamfoneil/AsyncWorkflow), a web queue worker pattern implementation
 - [BackgroundService.Extensions](https://github.com/adamfoneil/BackgroundService.Extensions) cronjob and queue support for .NET web apps
 - [Ensync](https://github.com/adamfoneil/Ensync), a SQL schema diff/merge command-line tool, reboot of [ModelSync](https://github.com/adamfoneil/ModelSync)
 - [Zinger](https://github.com/adamfoneil/Postulate.Zinger), a SQL client sort of like SSMS specifically for C# productivity. Check out its [Data Migrator](https://github.com/adamfoneil/Postulate.Zinger/wiki/Data-Migrator) feature and its [SqlSchema](https://github.com/adamfoneil/SqlSchema) library. [Zinger2](https://github.com/adamfoneil/Zinger2) in progress
