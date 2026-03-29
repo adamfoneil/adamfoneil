@@ -11,7 +11,7 @@ I work with Blazor a lot. Most of my work is closed-source, but I have a couple 
 - [UserVoice.RCL](https://github.com/adamfoneil/UserVoice.RCL) is a user feedback and acceptance test portal.
 
 I have some closed-source products:
-- [SqlChartify](https://sqlchartify.azurewebsites.net/) for writing queries and getting charts made with [ChartJS](https://www.chartjs.org/).
+- [Bramblelog.dev](https://bramblelog.dev/)
 
 WinForms/WPF stuff:
 - [ImgCloudPaste](https://github.com/adamfoneil/ImgCloudPaste), for pasting images and getting screenshot URLs using Azure storage
