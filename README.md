@@ -12,7 +12,4 @@ I work with Blazor a lot. Most of my work is closed-source, but I have a couple 
 
 I have some closed-source products:
 - [Bramblelog.dev](https://bramblelog.dev/)
-
-WinForms/WPF stuff:
-- [ImgCloudPaste](https://github.com/adamfoneil/ImgCloudPaste), for pasting images and getting screenshot URLs using Azure storage
-- [RadzenBuilder](https://github.com/adamfoneil/RadzenBuilder) for rapid creation of RadzenDataGrid Blazor markup
+- [ReleaseHero.app](https://releasehero.app)
